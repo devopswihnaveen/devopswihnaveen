@@ -4,6 +4,7 @@
 Cloud & DevOps Engineer with **3.6+ years of hands-on experience** in building, automating, and managing **scalable, secure, production-grade cloud infrastructure**.  
 Specialized in **AWS, Kubernetes (EKS), CI/CD pipelines, Infrastructure as Code, GitOps, monitoring, and DevSecOps practices**.
 
+
 - 🔹 Strong focus on automation, reliability, and cost optimization  
 - 🔹 Hands-on experience with production deployments  
 - 🔹 Immediate Joiner | Open to Remote / Hybrid opportunities  
@@ -44,7 +45,7 @@ Specialized in **AWS, Kubernetes (EKS), CI/CD pipelines, Infrastructure as Code,
 ## 🚀 Featured Projects
 
 ### 🔹 JavaApp
-🔗 https://github.com/devopswihnaveen/JavaApp.git  
+🔗 [Basic JavaApp](https://github.com/devopswihnaveen/JavaApp.git)  
 - Java-based application with dependencies  
 - Dockerized for containerized deployments  
 - Used for CI/CD and Kubernetes demonstrations  
@@ -52,7 +53,7 @@ Specialized in **AWS, Kubernetes (EKS), CI/CD pipelines, Infrastructure as Code,
 ---
 
 ### 🔹 AWS EKS CI/CD Pipeline
-🔗 https://github.com/devopswihnaveen/aws-eks-ci-cd  
+🔗 [aws-eks-ci-cd](https://github.com/devopswihnaveen/aws-eks-ci-cd)  
 - End-to-end CI/CD pipeline using Jenkins  
 - Docker image build and push to Amazon ECR  
 - Kubernetes deployment on AWS EKS  
@@ -64,7 +65,7 @@ Specialized in **AWS, Kubernetes (EKS), CI/CD pipelines, Infrastructure as Code,
 ---
 
 ### 🔹 Terraform AWS Infrastructure
-🔗 https://github.com/devopswihnaveen/terraform-aws-infrastructure  
+🔗 [terraform-aws-infrastructure](https://github.com/devopswihnaveen/terraform-aws-infrastructure)  
 - Modular Terraform code for AWS infrastructure  
 - VPC, EC2, IAM, Security Groups  
 - Remote state management and environment separation  
@@ -75,7 +76,7 @@ Specialized in **AWS, Kubernetes (EKS), CI/CD pipelines, Infrastructure as Code,
 ---
 
 ### 🔹 AWS & DevOps Interview Preparation
-🔗 https://github.com/devopswihnaveen/aws-devops-jenkins-docker-kubernetes-interview-questions/blob/main/README.md  
+🔗 [Interview Preparation](https://github.com/devopswihnaveen/aws-devops-jenkins-docker-kubernetes-interview-questions/blob/main/README.md)  
 - Real-world AWS & DevOps interview questions  
 - Topic-wise explanations with hands-on focus  
 - Covers AWS, Jenkins, Docker, Kubernetes, Terraform  
@@ -93,8 +94,8 @@ Specialized in **AWS, Kubernetes (EKS), CI/CD pipelines, Infrastructure as Code,
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/naveenvelanati/  
-- ✉️ Email: naveen.velanati1998@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/naveenvelanati/)  
+- ✉️ [Email](naveen.velanati1998@gmail.com)
 
 ---
 
