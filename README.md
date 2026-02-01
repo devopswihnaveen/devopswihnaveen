@@ -180,8 +180,6 @@ Cloud-based platform for agricultural management with high availability and auto
 
 ---
 
----
-
 ### 🌐 [Venkateshwara Electricals Website](https://ve.naveencloud.in)
 **AWS Static Hosting + CloudFront CDN + SSL/TLS**
 
