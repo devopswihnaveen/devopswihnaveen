@@ -27,12 +27,13 @@ Results-driven **Cloud & DevOps Engineer** with **3+ years of hands-on experienc
 
 ### 🌟 Key Highlights
 ```yaml
-experience: 3+ years
-clients: [EY, Q-Lana, Birdseye]
-availability: Immediate Joiner
-preferences: Remote / Hybrid / Onsite
-location: Hyderabad, India
-open_to: Cloud Engineering, DevOps, SRE, Platform Engineering roles
+**experience: 3.6+ years**
+**Organization: **Zerocode Innovations Private Limited**
+**clients: [EY, Q-Lana, Birdseye]**
+**availability: Immediate Joiner**
+**preferences: Remote / Hybrid / Onsite**
+**location: Hyderabad, India**
+**open_to: Cloud Engineering, DevOps, SRE, Platform Engineering roles**
 ```
 
 ---
