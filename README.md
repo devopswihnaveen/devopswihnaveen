@@ -27,13 +27,13 @@ Results-driven **Cloud & DevOps Engineer** with **3+ years of hands-on experienc
 
 ### 🌟 Key Highlights
 ```yaml
-**experience: 3.6+ years**
-**Organization: **Zerocode Innovations Private Limited**
-**clients: [EY, Q-Lana, Birdseye]**
-**availability: Immediate Joiner**
-**preferences: Remote / Hybrid / Onsite**
-**location: Hyderabad, India**
-**open_to: Cloud Engineering, DevOps, SRE, Platform Engineering roles**
+experience: 3.6+ years
+Organization: Zerocode Innovations Limited
+clients: [EY, Q-Lana, Birdseye]
+availability: Immediate Joiner
+preferences: Remote / Hybrid / Onsite
+location: Hyderabad, India
+open_to: Cloud Engineering, DevOps, SRE, Platform Engineering roles
 ```
 
 ---
@@ -488,7 +488,7 @@ Real-world interview questions with detailed explanations and hands-on scenarios
 ## 💼 Professional Experience
 
 ### 🔹 Cloud & DevOps Engineer
-**Zerocode Innovations Private Limited** | *Client: Q-Lana*  
+**Zerocode Innovations Limited** | *Client: Q-Lana*  
 📅 May 2025 – Present
 
 **Key Responsibilities & Achievements:**
@@ -501,7 +501,7 @@ Real-world interview questions with detailed explanations and hands-on scenarios
 ---
 
 ### 🔹 Cloud Engineer
-**Zerocode Innovations Private Limited** | *Client: EY (Ernst & Young)*  
+**Zerocode Innovations Limited** | *Client: EY (Ernst & Young)*  
 📅 Dec 2023 – Apr 2025
 
 **Key Responsibilities & Achievements:**
@@ -514,7 +514,7 @@ Real-world interview questions with detailed explanations and hands-on scenarios
 ---
 
 ### 🔹 Cloud Engineer Trainee
-**Zerocode Innovations Private Limited** | *Client: Birdseye*  
+**Zerocode Innovations Limited** | *Client: Birdseye*  
 📅 Jun 2022 – Dec 2023
 
 **Key Responsibilities & Achievements:**
