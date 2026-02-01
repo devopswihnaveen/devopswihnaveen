@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenvelanati/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devopswihnaveen)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ve.naveencloud.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://portifolio.amaravathi.today/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenkumarvelanati@gmail.com)
 [![HashNode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@naveenvelanati)
 
@@ -126,7 +126,7 @@ Linux (Ubuntu, RHEL) • Windows Server
 
 ## 🚀 Featured Projects & Portfolio
 
-### 🌐 [Personal Portfolio Website](https://ve.naveencloud.in)
+### 🌐 [Personal Portfolio Website](http://portifolio.amaravathi.today/)
 **AWS Static Hosting + CloudFront CDN + SSL/TLS**
 
 Professional portfolio showcasing cloud engineering expertise with global content delivery.
@@ -175,6 +175,39 @@ Cloud-based platform for agricultural management with high availability and auto
 - Multi-AZ deployment for high availability
 - Automated backups and disaster recovery
 - Infrastructure as Code with Terraform
+
+</details>
+
+---
+
+---
+
+### 🌐 [Venkateshwara Electricals Website](https://ve.naveencloud.in)
+**AWS Static Hosting + CloudFront CDN + SSL/TLS**
+
+Professional portfolio showcasing cloud engineering expertise with global content delivery.
+
+<details>
+<summary><b>🔍 Technical Details</b></summary>
+
+**Architecture:**
+- AWS S3 static website hosting with versioning
+- CloudFront CDN for global low-latency delivery
+- ACM SSL/TLS certificates for HTTPS enforcement
+- Route53 for custom domain management
+- GitHub Actions for automated deployments
+
+**Technologies:** `AWS S3` `CloudFront` `Route53` `ACM` `GitHub Actions` `HTML/CSS/JS`
+
+**Key Features:**
+- Sub-100ms global response time
+- 99.99% uptime SLA
+- Automated CI/CD pipeline
+- Cost-optimized architecture (~$1/month)
+- Fully responsive design
+- ATS-friendly structure
+
+**Live Demo:** [https://ve.naveencloud.in](https://ve.naveencloud.in)
 
 </details>
 
@@ -552,7 +585,7 @@ I'm always open to discussing **Cloud Architecture**, **DevOps**, **Kubernetes**
 
 ### 💼 Professional Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naveenvelanati/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://ve.naveencloud.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](http://portifolio.amaravathi.today/)
 [![HashNode](https://img.shields.io/badge/Blog-Read-2962FF?style=for-the-badge&logo=hashnode)](https://hashnode.com/@naveenvelanati)
 
 ### 📍 Location
