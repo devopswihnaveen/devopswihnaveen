@@ -549,7 +549,7 @@ Prakasam Engineering College, Kandukur | JNTU-Kakinada
 </div>
 ---
 
-📌 Quick Stats
+## 📌 Quick Stats
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devopswihnaveen&color=blue&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/devopswihnaveen?style=flat-square&color=blue&label=Followers" />
