@@ -547,7 +547,6 @@ Prakasam Engineering College, Kandukur | JNTU-Kakinada
 </p>
 
 </div>
----
 
 ## 📌 Quick Stats
 <p align="center">
