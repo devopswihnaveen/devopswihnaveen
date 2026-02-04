@@ -607,7 +607,7 @@ Hyderabad, Telangana, India
 ```diff
 + Immediate Joiner
 + Open to Remote/Hybrid/Onsite
-+ Available for Freelance/Contract work
++ Available for Full-Time / Freelance / Contract work
 ```
 
 </div>
