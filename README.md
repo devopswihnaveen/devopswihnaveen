@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-Results-driven **Cloud & DevOps Engineer** with **3+ years of hands-on experience** delivering secure, scalable, and automated cloud solutions. Proven expertise in building **production-grade infrastructure** on AWS, implementing **CI/CD automation**, and managing **Kubernetes-based deployments**.
+Results-driven **Cloud & DevOps Engineer** with **3.6 + years of hands-on experience** delivering secure, scalable, and automated cloud solutions. Proven expertise in building **production-grade infrastructure** on AWS, implementing **CI/CD automation**, and managing **Kubernetes-based deployments**.
 
 ### 💼 Current Focus
 - 🔹 **Cloud Infrastructure**: AWS cloud architecture and optimization
