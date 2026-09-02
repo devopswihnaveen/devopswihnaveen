@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Cloud & DevOps Engineer | AWS Specialist | Kubernetes Expert | GitOps Practitioner
+### 🚀 DevSecOps Engineer | Cloud Infrastructure | CI/CD Automation | AWS & Azure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenvelanati/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devopswihnaveen)
@@ -16,24 +16,25 @@
 
 ## 🎯 About Me
 
-Results-driven **Cloud & DevOps Engineer** with **3.6 + years of hands-on experience** delivering secure, scalable, and automated cloud solutions. Proven expertise in building **production-grade infrastructure** on AWS, implementing **CI/CD automation**, and managing **Kubernetes-based deployments**.
+Results-driven **DevSecOps Engineer** with **4+ years of hands-on experience** in cloud infrastructure automation, CI/CD pipeline optimization, and container orchestration across **AWS and Azure** environments. Proven track record of reducing deployment times by 40%, cutting infrastructure costs by 15%, and eliminating 85% of manual deployment effort through Infrastructure-as-Code and GitOps practices. Expert in embedding security throughout the SDLC using SAST, DAST, Trivy, and SonarQube, and in architecting event-driven, serverless, and microservices-based platforms that scale reliably in production.
 
 ### 💼 Current Focus
-- 🔹 **Cloud Infrastructure**: AWS cloud architecture and optimization
-- 🔹 **Automation**: Infrastructure as Code (Terraform), CI/CD pipelines
-- 🔹 **Container Orchestration**: Kubernetes (EKS), Docker, Helm
-- 🔹 **GitOps**: ArgoCD, automated deployments
-- 🔹 **Security**: DevSecOps practices, IAM, encryption, compliance
+- 🔹 **Cloud Infrastructure**: AWS & Azure architecture, multi-account design, cost optimization
+- 🔹 **Automation**: Infrastructure as Code (Terraform, CloudFormation, Pulumi, Ansible), CI/CD pipelines
+- 🔹 **Container Orchestration**: Kubernetes (EKS, RBAC, Network Policies), Docker, Helm, Kustomize, Istio
+- 🔹 **GitOps**: ArgoCD, Jenkins, GitHub Actions, GitLab CI
+- 🔹 **DevSecOps**: SAST/DAST, Trivy, SonarQube, Checkov, OWASP ZAP, IAM least privilege, MFA
+- 🔹 **Observability**: Prometheus, Grafana, ELK Stack, Datadog, PagerDuty, distributed tracing
 
 ### 🌟 Key Highlights
 ```yaml
-experience: 3.6+ years
-Organization: Zerocode Innovations Limited
-clients: [EY, Q-Lana, Birdseye]
+experience: 4+ years
+current_role: Sr. DevOps Engineer @ Metapercept Technology Services LLP
+current_project: met-R (Enterprise Document Conversion Platform) & AI/MCP Platform Initiatives
 availability: Immediate Joiner
 preferences: Remote / Hybrid / Onsite
-location: Hyderabad, India
-open_to: Cloud Engineering, DevOps, SRE, Platform Engineering roles
+location: Pune, India
+open_to: DevSecOps, Cloud Engineering, DevOps, SRE, Platform Engineering roles
 ```
 
 ---
@@ -45,21 +46,22 @@ open_to: Cloud Engineering, DevOps, SRE, Platform Engineering roles
 <td width="50%">
 
 ### 📊 Performance Metrics
-- ✅ **60%** reduction in deployment failures (GitOps/ArgoCD)
-- ✅ **45%** reduction in manual provisioning effort
-- ✅ **40%** faster deployment cycles
-- ✅ **50%** reduction in recurring production issues
-- ✅ **35%** faster release time with CI/CD automation
+- ✅ **40%** reduction in deployment times
+- ✅ **15%** reduction in infrastructure costs
+- ✅ **85%** of manual deployment effort eliminated
+- ✅ **70%** reduction in provisioning effort via Terraform automation
+- ✅ **60%** improved deployment accuracy with GitOps/ArgoCD
+- ✅ **50%** reduction in recurring infrastructure incidents
 
 </td>
 <td width="50%">
 
 ### 🎖️ Key Accomplishments
-- ✨ Delivered secure AWS S3 + CloudFront architectures
-- ✨ Implemented enterprise-grade GitOps workflows
-- ✨ Built automated S3 multipart upload systems
-- ✨ Enhanced observability with Prometheus/Grafana
-- ✨ Strengthened security with DevSecOps practices
+- ✨ Zero critical security vulnerabilities via SAST/DAST, Trivy & SonarQube in CI/CD
+- ✨ Architected per-customer, EC2-based isolated document processing infrastructure
+- ✨ Standardized reusable CI/CD pipelines across API Gateway, Frontend & backend services
+- ✨ Governed GitHub Organization: branch protection, CODEOWNERS, access controls
+- ✨ Built AWS Bedrock-integrated, multi-client Terraform infrastructure
 
 </td>
 </tr>
@@ -69,58 +71,64 @@ open_to: Cloud Engineering, DevOps, SRE, Platform Engineering roles
 
 ## 🛠️ Technical Skills & Expertise
 
-### ☁️ Cloud Platforms (AWS)
+### ☁️ Cloud & Architecture (AWS & Azure)
 ```
-EC2 • S3 • VPC • IAM • Route53 • Lambda • RDS • CloudWatch
-CloudFront • ACM • ALB • Auto Scaling • KMS • EKS • ECR
+AWS: EC2 • EKS • ECS • S3 • RDS • Lambda • API Gateway • CloudFront
+VPC • IAM • SQS • SNS • Step Functions • Route53 • CloudTrail • CloudWatch
+Multi-Account Architecture • High Availability • Auto Scaling • Azure
 ```
 
 ### 🔄 CI/CD & DevOps
 ```
-GitHub Actions • Jenkins • ArgoCD • GitOps • Git • GitHub
-CI/CD Pipeline Automation • Blue-Green Deployments • Rolling Updates
+Jenkins • GitHub Actions • GitLab CI • GitOps (ArgoCD)
+Release Management • Blue-Green & Canary Deployments
 ```
 
 ### 🏗️ Infrastructure as Code
 ```
-Terraform (Advanced) • Ansible • AWS CDK • CloudFormation
-Automated Cloud Provisioning • Configuration Management
+Terraform (Modular IaC, Remote State, Workspaces) • AWS CloudFormation
+Ansible (Configuration Management) • Pulumi
 ```
 
 ### 📦 Containers & Orchestration
 ```
-Docker • Kubernetes • Amazon EKS • Helm Charts
-Microservices Architecture • Container Security
+Docker • Kubernetes (EKS, RBAC, Scaling, Network Policies)
+Helm • Kustomize • Istio Service Mesh
+```
+
+### 🔒 Security & DevSecOps
+```
+IAM RBAC • AWS KMS • Secrets Manager • AWS WAF
+SAST • DAST • Trivy • SonarQube • Checkov • OWASP ZAP
+Least Privilege • MFA • NACLs
 ```
 
 ### 📊 Monitoring & Observability
 ```
-Prometheus • Grafana • AWS CloudWatch
-Centralized Logging • Application Performance Monitoring
+Prometheus • Grafana • ELK Stack (Elasticsearch, Logstash, Kibana)
+AWS CloudWatch • Datadog • PagerDuty • Distributed Tracing
 ```
 
-### 🔒 Security & Compliance
+### ⚡ Event-Driven & APIs
 ```
-IAM (RBAC, Least Privilege) • AWS KMS Encryption • MFA
-SonarQube • Trivy • DevSecOps Practices • SSL/TLS
+S3 • Lambda • SQS • SNS • API Gateway (REST/JWT)
+Step Functions • Asynchronous Workflows • Webhook Integrations
+```
+
+### 🗄️ Databases & Storage
+```
+MySQL • MongoDB • Redis (ElastiCache) • Amazon RDS
+S3 (Lifecycle Policies, Versioning, Multipart Uploads)
 ```
 
 ### 💻 Programming & Scripting
 ```
-Python • Bash • Shell Scripting • YAML • JSON
-Automation Scripts • API Integration
+Python • Bash • Shell Scripting • YAML • JSON • DITA-XML
 ```
 
-### 🌐 Web & Networking
+### 🤝 Version Control & Collaboration
 ```
-Nginx • Apache Tomcat • Load Balancers • CDN
-DNS Management • HTTPS/SSL Configuration
-```
-
-### 🗄️ Databases & Operating Systems
-```
-MySQL • MongoDB • RDS
-Linux (Ubuntu, RHEL) • Windows Server
+Git • GitHub • GitLab • Bitbucket • Confluence • Jira • Agile / Scrum
 ```
 
 ---
@@ -487,50 +495,71 @@ Real-world interview questions with detailed explanations and hands-on scenarios
 
 ## 💼 Professional Experience
 
-### 🔹 Cloud & DevOps Engineer
-**Zerocode Innovations Limited** | *Client: Q-Lana*  
-📅 May 2025 – Present
+### 🔹 Sr. DevOps Engineer
+**Metapercept Technology Services LLP** | Pune, India  
+📅 March 2026 – Present  
+*Project: met-R (Enterprise Document Conversion Platform) | AI & MCP Platform Initiatives*
 
 **Key Responsibilities & Achievements:**
-- Developed Python automation for AWS S3 multipart uploads (10GB+ datasets)
-- Implemented GitOps-based Kubernetes deployments using ArgoCD (60% fewer failures)
-- Managed Terraform IaC modules for multi-environment consistency
-- Enhanced observability with CloudWatch, Prometheus, and Grafana
-- Collaborated with development teams on release workflow optimization
+- Designed and standardized reusable CI/CD pipelines across API Gateway, Frontend, Converter Services, and Server Admin, improving deployment consistency
+- Built deployment automation including security scanning, emergency rollback, JIRA-integrated workflows, and controlled manual deployment mechanisms
+- Containerized and onboarded multiple services, improving deployment reliability and environment consistency
+- Drove Kubernetes adoption: deployment manifests, security best practices, and EKS deployment strategy
+- Expanded IaC with Terraform for multi-client, multi-environment infrastructure and AWS Bedrock integrations, reducing provisioning effort by 70%
+- Established and governed the metR-Phase2 GitHub Organization (branch protection, CODEOWNERS, access management)
+- Engineered a per-customer deployment model with isolated EC2-based converter engines, secured via JWT-based API Gateway authentication
+- Implemented monitoring and observability using CloudWatch Logs, custom metrics, and real-time alerting
+- Conducted AWS cloud cost optimization reviews and governance controls to maintain spending within budget
 
 ---
 
 ### 🔹 Cloud Engineer
-**Zerocode Innovations Limited** | *Client: EY (Ernst & Young)*  
-📅 Dec 2023 – Apr 2025
+**Zerocode Innovations Private Limited** | Hyderabad, India  
+📅 June 2022 – November 2025  
+*Project: Zerocode (Low-Code Automation & Integration Platform)*
 
 **Key Responsibilities & Achievements:**
-- Designed CI/CD pipelines with GitHub Actions (40% faster deployments)
-- Implemented AWS S3 static hosting + CloudFront CDN + ACM SSL
-- Provisioned infrastructure using Terraform and Ansible
-- Optimized AWS services: VPC, EC2, ALB, Auto Scaling, IAM, Route53, Lambda, RDS
-- Reduced recurring production issues by 50% through incident analysis
+- Engineered and maintained CI/CD pipelines with GitHub Actions across dev/staging/production, reducing deployment time by 40% and eliminating 85% of manual effort
+- Deployed GitOps-based Kubernetes workloads using ArgoCD across 4+ environments, improving deployment accuracy by 60%
+- Optimized high-volume data ingestion using AWS S3 multipart uploads (10GB+) with Python for fault-tolerant file transfers
+- Built cloud-native architecture on AWS (EC2, Auto Scaling, ALB, Lambda, CloudFront, S3, RDS) for highly available workloads
+- Enabled event-driven workflow automation integrating Lambda, S3, and API Gateway
+- Standardized IaC with Terraform and configuration management with Ansible
+- Enforced IAM RBAC and least-privilege access, automating policy management with Terraform
+- Strengthened security via MFA, access-log monitoring, and network-level controls (VPC, Security Groups, NACLs)
+- Reduced recurring infrastructure issues by 50% through post-incident RCA
+- Enhanced observability using Prometheus, Grafana, and the ELK Stack
 
 ---
 
-### 🔹 Cloud Engineer Trainee
-**Zerocode Innovations Limited** | *Client: Birdseye*  
-📅 Jun 2022 – Dec 2023
+## 🏅 Key Achievements
 
-**Key Responsibilities & Achievements:**
-- Enhanced Jenkins CI/CD pipelines (35% faster releases)
-- Integrated SonarQube for code quality (30% reduction in technical debt)
-- Optimized Docker images with multi-stage builds (40% size reduction)
-- Deployed Prometheus + Grafana monitoring (20% MTTR improvement)
-- Provisioned AWS infrastructure with Terraform (50% faster setup)
+| Category | Highlight |
+|---|---|
+| **Cloud Modernization** | Modernized legacy infrastructure into a fully automated, scalable cloud environment using Terraform and AWS, achieving a 15% reduction in overall infrastructure costs |
+| **Deployment Efficiency** | Eliminated 85% of manual deployment effort and cut deployment time by 40% through standardized CI/CD pipelines with GitHub Actions and ArgoCD |
+| **Security Excellence** | Achieved zero critical security vulnerabilities in production by integrating SAST, DAST, Trivy, and SonarQube into all CI/CD pipelines |
+| **Cost Optimization** | Reduced NAT Gateway and infrastructure costs via S3 lifecycle policies, EC2 right-sizing, and VPC endpoint routing |
+| **Customer Onboarding** | Reduced customer onboarding provisioning time from hours to under 1 hour with fully automated Terraform + GitHub Actions workflows |
+| **Incident Reduction** | Reduced recurring infrastructure incidents by 50% through post-incident RCA and proactive monitoring with Prometheus/Grafana |
+
+**🏆 Achievement:** Earned the exclusive **"Stellar Performance Award"** for establishing overall ownership of the Cloud and DevOps team, driving cross-functional alignment, and executing infrastructure cost-optimization strategies.
+
+---
+
+## 📜 Certifications
+
+- ☁️ AWS Certified Solutions Architect
+- ☁️ AWS Cloud Practitioner Essentials
+- 🤖 Generative AI For Executives
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology in Civil Engineering**  
+**Bachelor of Technology**  
 Prakasam Engineering College, Kandukur | JNTU-Kakinada  
-📅 Graduated: May 2021 | CGPA: 6.9
+📅 2016 – 2020
 
 ---
 
@@ -601,7 +630,7 @@ I'm always open to discussing **Cloud Architecture**, **DevOps**, **Kubernetes**
 [![HashNode](https://img.shields.io/badge/Blog-Read-2962FF?style=for-the-badge&logo=hashnode)](https://hashnode.com/@naveenvelanati)
 
 ### 📍 Location
-Hyderabad, Telangana, India
+Pune, Maharashtra, India
 
 ### 💡 Status
 ```diff
@@ -639,7 +668,7 @@ If you find my projects useful or insightful:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devopswihnaveen&color=brightgreen&style=for-the-badge)
 
-**© 2025 Naveen Kumar Velanati. All rights reserved.**
+**© 2026 Naveen Kumar Velanati. All rights reserved.**
 
 *Built with ❤️ and lots of ☕*
 
