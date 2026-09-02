@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenvelanati/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devopswihnaveen)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://portifolio.naveencloud.in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://portfolio.naveencloud.in/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenkumarvelanati@gmail.com)
 [![HashNode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@naveenvelanati)
 
@@ -135,7 +135,7 @@ Git • GitHub • GitLab • Bitbucket • Confluence • Jira • Agile / Scru
 
 ## 🚀 Featured Projects & Portfolio
 
-### 🌐 [Personal Portfolio Website](http://portifolio.naveencloud.in/)
+### 🌐 [Personal Portfolio Website](http://portfolio.naveencloud.in/)
 **AWS Static Hosting + CloudFront CDN + SSL/TLS**
 
 Professional portfolio showcasing cloud engineering expertise with global content delivery.
@@ -626,7 +626,7 @@ I'm always open to discussing **Cloud Architecture**, **DevOps**, **Kubernetes**
 
 ### 💼 Professional Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naveenvelanati/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](http://portifolio.naveencloud.in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](http://portfolio.naveencloud.in/)
 [![HashNode](https://img.shields.io/badge/Blog-Read-2962FF?style=for-the-badge&logo=hashnode)](https://hashnode.com/@naveenvelanati)
 
 ### 📍 Location
